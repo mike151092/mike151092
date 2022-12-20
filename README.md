@@ -1,4 +1,4 @@
-- 👋 Hi, I’m michael and aerospace engineer and aspiring CFD Code Developer
+- 👋 Hi, I’m michael, an aerospace engineer who is aspiring to be a CFD Code Developer
 - 👀 I’m interested in learning about scripting for CFD and other numerical tool development purpouse.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on small projects that would enable me to take the small steps necessary to achieve my goals.
